@@ -25,8 +25,11 @@
     "typescript": "~3.1.0"
   },
   "dependencies": {
-    "edit-google-spreadsheet": "^0.3.0",
     "googleapis": "^36.0.0",
     "rxjs": "^6.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:one-acre-fund/gdrive-utils-js.git"
   }
 }
