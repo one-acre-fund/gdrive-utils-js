@@ -1,0 +1,5 @@
+node_modules
+lib
+testCredentials.json
+*.sublime-project
+*.sublime-workspace
